@@ -47,9 +47,7 @@ The script supports commonly used key-value pairs in desktop entry files includi
 
 - `Categories` (Optional) - This key specifies the categories in which the desktop entry should be shown. Each specified category value should be separated using a semicolon, i.e., `;`. Here's an example of how to set the value, `Network;WebBrowser`. See the [Desktop Menu Specification](https://specifications.freedesktop.org/menu-spec/menu-spec-latest.html) documentation for more possible values.
 
-> Only desktop entry files with a `Type` of `Application` are supported. You can change the `Type` yourself by editing the desktop entry file directly.
-
-> Setting localization, i.e., the ability to display specified translations isn't supported by this script. You can add localization to the key-value pairs yourself by editing the desktop entry file directly.
+> Only desktop entry files with a `Type` of `Application` are supported. You can change the `Type` yourself by editing the desktop entry file directly. Setting localization, i.e., the ability to display specified translations isn't supported by this script. You can add localization to the key-value pairs yourself by editing the desktop entry file directly.
 
 You can add more key-value pairs yourself by editing the desktop entry file directly.
 
