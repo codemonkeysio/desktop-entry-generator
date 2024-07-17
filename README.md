@@ -6,7 +6,7 @@ This script will create a desktop entry file in Linux.
 
 🐒 Check out the [Code Monkeys Blog!](https://www.codemonkeys.tech/ "Code Monkeys Blog!")
 
-🎥 Subscribe to the [Code Monkeys YouTube Channel!](https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg "Code Monkeys YouTube Channel!")
+🎥 Subscribe to the [Code Monkeys YouTube Channel!](https://www.youtube.com/@codemonkeystech "Code Monkeys YouTube Channel!")
 
 ## Choosing a Directory
 
